@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Connect4-Progtech-Beadando,org.example,Main,24,31,6,6,7,11,6,2,1,1
+Connect4-Progtech-Beadando,org.example,Connect4,181,68,23,11,47,21,16,8,3,4
+Connect4-Progtech-Beadando,org.example,Highscore,14,36,7,11,7,11,9,4,2,2
+Connect4-Progtech-Beadando,org.example,JatekAllapotMentes,37,102,2,10,12,19,4,6,2,2
+Connect4-Progtech-Beadando,org.example,Pontszam,9,52,0,2,3,13,1,2,1,1
+Connect4-Progtech-Beadando,org.example,Adatbazis,15,70,2,2,5,24,2,4,0,4
+Connect4-Progtech-Beadando,org.example,Tabla,147,191,27,35,16,25,20,21,5,5
