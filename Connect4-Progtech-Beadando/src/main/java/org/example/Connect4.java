@@ -7,9 +7,9 @@ public class Connect4 {
     private static final char JATEKOS_KETTO = 'O';
     private final Tabla tabla;
     private final Random veletlen;
-    private boolean jatekNyert = false;
-    private String jatekosNev;
-    private int lepesekSzama;
+    public boolean jatekNyert = false;
+    public String jatekosNev;
+    public int lepesekSzama;
 
     public Connect4() {
         tabla = new Tabla();

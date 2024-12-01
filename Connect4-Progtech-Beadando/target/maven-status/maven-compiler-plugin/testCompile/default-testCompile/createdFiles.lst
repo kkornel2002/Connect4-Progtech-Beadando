@@ -1,6 +1,7 @@
-org\example\AdatbazisTeszt.class
-org\example\JatekMentesTeszt.class
-org\example\Connect4Teszt.class
-org\example\RanglistaTeszt.class
-org\example\PontszamTeszt.class
-org\example\TablaTeszt.class
+org\example\MainTest.class
+org\example\HighscoreTest.class
+Connect4Test.class
+org\example\AdatbazisTest.class
+org\example\JatekMentesTest.class
+org\example\PontszamTest.class
+org\example\TablaTest.class

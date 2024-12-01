@@ -106,4 +106,8 @@ public class Tabla {
 
         return false;
     }
+
+    public void reset() {
+    }
+
 }
